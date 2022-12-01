@@ -10,7 +10,7 @@ Finally, the data stream is visualized to give important insights in the farms p
 --:INSTRUCTIONS:--
 
 
-Project_SOH contains the code of node mcu, rest is app's(frontend) code.
+Project_SOH contains the code of node mcu, rest is app's(frontend) code , demobackend is small demo php mysql code.
 
 
 step-1:-
