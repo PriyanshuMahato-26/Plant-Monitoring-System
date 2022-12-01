@@ -7,6 +7,9 @@ The Data from sensors range from digital to analog signals, the required preproc
 Finally, the data stream is visualized to give important insights in the farms parameters so that farmers can take informed decisions in their practices.
 
 
+--:INSTRUCTION:--
+
+
 Project_SOH contains the code of node mcu, rest is app's(frontend) code.
 
 
